@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm jay patel</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+<h1 align="center">Hi 👋, I'm Jay Patel</h1>
+<h3 align="center">A passionate Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-yy&label=Profile%20views&color=0e75b6&style=flat" alt="ja-yy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ja-yy" alt="ja-yy" /></a> </p>
 
-- 🌱 I’m currently learning **tensorflow,openCV**
+- 🌱 I’m currently learning **tensorflow,pytorch**
 
-- 🤝 I’m looking for help with **tensorflow,openCV,Deep-learning**
+- 🤝 I’m looking for help with **tensorflow,NLP,Deep-learning**
 
-- 💬 Ask me about **Data-science,Machine-learning,Deep-learning**
+- 💬 Ask me about **Data-science,Machine-learning,Deep-learning,NLP**
 
 - 📫 How to reach me **jaypatel.learn@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
