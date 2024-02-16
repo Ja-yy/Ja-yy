@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ja-yy" alt="ja-yy" /></a> </p>
 
-- 🌱 I’m currently learning **tensorflow,pytorch**
+- 🌱 I’m currently learning **tensorflow,langchain**
 
-- 🤝 I’m looking for help with **tensorflow,NLP,Deep-learning**
+- 🤝 I’m looking for help with **tensorflow,llms,langchain**
 
-- 💬 Ask me about **Data-science,Machine-learning,Deep-learning,NLP**
+- 💬 Ask me about **Data-science,Machine-learning,Gen AI**
 
 - 📫 How to reach me **jaypatel.learn@gmail.com**
 
