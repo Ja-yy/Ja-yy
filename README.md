@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data-science,Machine-learning,Gen AI**
 
-- 📫 How to reach me **jaypatel.learn@gmail.com**
+- 📫 How to reach me **jayypatel.work@gmail.com**
 
 <p align="left">
 </p>
